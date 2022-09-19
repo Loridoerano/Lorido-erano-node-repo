@@ -1,1 +1,20 @@
-
+{
+  "name": "lorido-erano-node-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diamond.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loridoerano/Lorido-erano-node-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loridoerano/Lorido-erano-node-repo/issues"
+  },
+  "homepage": "https://github.com/Loridoerano/Lorido-erano-node-repo#readme"
+}
